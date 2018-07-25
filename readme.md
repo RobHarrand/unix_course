@@ -1,1 +1,1 @@
-** Playing around with Git via Linux**
+**Playing around with Git via Linux**
