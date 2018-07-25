@@ -1,0 +1,17 @@
+commit 7e5aae1564804501d790c86dcbd94a6819dffb26
+Author: RobHarrand <tentotheminus9@yahoo.co.uk>
+Date:   Wed Jul 25 03:18:24 2018 -0700
+
+    Added ignore file
+
+commit d66cfbb6db624e6d4957db2db303997dd2d944fd
+Author: RobHarrand <tentotheminus9@yahoo.co.uk>
+Date:   Tue Jul 24 05:50:23 2018 -0700
+
+    Added a couple more files
+
+commit d3325de11f8e29f6e54b830039a6871fcc749a86
+Author: RobHarrand <tentotheminus9@yahoo.co.uk>
+Date:   Tue Jul 24 05:43:26 2018 -0700
+
+    added readme.txt
